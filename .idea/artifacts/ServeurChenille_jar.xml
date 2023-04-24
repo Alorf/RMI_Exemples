@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ServeurChenille:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ServeurChenille_jar</output-path>
+    <root id="archive" name="Code.jar">
+      <element id="module-output" name="Code" />
+    </root>
+  </artifact>
+</component>
